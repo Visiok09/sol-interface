@@ -1,4 +1,4 @@
-The code you provided consists of three Solidity contracts: Logger, ILogger (interface), and Demo. Here's a description of each contract:
+The code consists of three Solidity contracts: Logger, ILogger (interface), and Demo. Here's a description of each contract:
 
 1.Logger: This contract maintains a mapping called payments that stores an array of payment amounts for each address. It provides two functions:
 
